@@ -1,0 +1,9 @@
+{
+  "name": "Vulnerable Treasures",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+  "postCreateCommand": "npm ci && npm run db:init",
+  "forwardPorts": [3000],
+  "portsAttributes": {
+    "3000": { "label": "App", "onAutoForward": "openBrowser" }
+  }
+}

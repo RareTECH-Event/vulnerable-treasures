@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /api/internal/sitemap
+
+# Flag: CTF{R0b0ts_Kn0w_Wh3re_T0_L00k}

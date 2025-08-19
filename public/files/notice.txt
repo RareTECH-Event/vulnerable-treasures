@@ -1,0 +1,4 @@
+Welcome to the vulnerable file viewer.
+Files in this folder can be read by passing their names.
+Hint: Think about how relative paths like ../ work.
+Hint: Find a file named flag.txt.

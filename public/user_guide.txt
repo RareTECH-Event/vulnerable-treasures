@@ -1,0 +1,6 @@
+Welcome to Vulnerable Treasures!
+
+This guide is intended to help you get started.
+However, the real treasures are hidden within the vulnerabilities of this site.
+
+Good luck, and happy hacking!
